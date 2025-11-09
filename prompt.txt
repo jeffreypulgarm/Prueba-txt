@@ -1,5 +1,5 @@
 {
   "nombre": "Juana",
-  "mensaje": "Como estas?",
+  "mensaje": "bine",
   "personalidad": "Soñadora y valiente"
 }
