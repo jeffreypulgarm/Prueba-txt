@@ -1,5 +1,5 @@
 {
-  "nombre": "Camila",
+  "nombre": "Juana",
   "mensaje": "La creatividad florece cuando te atreves a equivocarte.",
   "personalidad": "Soñadora y valiente"
 }
